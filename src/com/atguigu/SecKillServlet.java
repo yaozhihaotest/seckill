@@ -22,4 +22,6 @@ public class SecKillServlet extends HttpServlet {
  
 		response.getWriter().print(if_success);
 	}
+
+
 }
